@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+    <!--SceneryObject name: Airport_PlasticBarrier_Type1_Single_White-->
+    <SceneryObject lat="-40.32414629744056" lon="175.61809692253772" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+        <LibraryObject name="{FB6732C8-F0E2-495B-9046-19EF07D2F039}" scale="1.000000"/>
+    </SceneryObject>
+    <!--SceneryObject name: Airport_PlasticBarrier_Type1_Single_White-->
+    <SceneryObject lat="-40.32383461160041" lon="175.61822203279948" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" instanceId="{DEC5DADC-8145-4758-B4CB-19978863A65A}" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+        <LibraryObject name="{FB6732C8-F0E2-495B-9046-19EF07D2F039}" scale="1.000000"/>
+    </SceneryObject>
+    <!--SceneryObject name: Baggage_Truck_05-->
+    <SceneryObject lat="-40.32388181182592" lon="175.61820275092455" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+        <LibraryObject name="{689DD4DB-D54D-49EC-8F7A-D61E872531B1}" scale="1.000000"/>
+    </SceneryObject>
+</FSData>

@@ -9,10 +9,10 @@ namespace CarRandomizer
     {
         static void Main(string[] args)
         {
+            
             var CarGUID = File.ReadAllLines(@"Car GUID.txt");
             
             Random rand = new Random();  
-            Console.WriteLine(args[0]);
             //adding file path
             string orgXml = args[0];
             // Option1: Using SetAttributeValue()
@@ -31,14 +31,9 @@ namespace CarRandomizer
                 
             }  
             
-            xmlDoc.Save(Console.Out);  
+            xmlDoc.Save(args[0]);  
             Console.WriteLine(); 
 
-
-            /*
-            Console.Write("Enter your name: ");
-            var name = Console.ReadLine();
-            Console.WriteLine("Hello " + xmlFilePath + "!"); */
         }
     }
 }
